@@ -11,4 +11,4 @@ npm install
 npm run develop
 npm start
 ```
-You also need to add a ```.env``` file in the root folder to store values of **AWS_ACCESS_KEY_ID** and **AWS_ACCESS_SECRET**, this is for the AWS S3 upload provider which store the images
+You also need to add a ```.env``` file in the root folder to store values of **AWS_ACCESS_KEY_ID** and **AWS_ACCESS_SECRET**, this is for the AWS S3 upload provider which stores the images
